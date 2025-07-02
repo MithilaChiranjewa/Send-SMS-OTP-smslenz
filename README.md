@@ -25,7 +25,7 @@ git clone https://github.com/yourusername/Send-SMS-OTP-smslenz.git
 
 ### 3. Configure the Project
 
-- Open the configuration file in the project
+- Open the send-otp.php file in the project
 - Enter your SMSlenz API key, sender ID, and any other required settings
 
 ### 4. Install Requirements
@@ -51,9 +51,6 @@ git clone https://github.com/yourusername/Send-SMS-OTP-smslenz.git
 
 This project is provided for educational purposes. Please review the LICENSE file for more information.
 
-
-> ```
-> This will make the file non-writable for all users.
 
 by MCRM https://github.com/MithilaChiranjewa
 
